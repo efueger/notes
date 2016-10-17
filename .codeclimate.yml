@@ -3,7 +3,7 @@ engines:
   fixme:
     enabled: true
   markdownlint:
-    enabled: false
+    enabled: true
 ratings:
   paths:
   - "**/*.md"
